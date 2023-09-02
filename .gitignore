@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.chroma
+*.pdf
+*.png
+*.jpg
+uploaded_files/**
+mainapp.log
+venv
